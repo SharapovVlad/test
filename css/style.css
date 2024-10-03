@@ -1,0 +1,19 @@
+.bold{
+    font-weight: bold;
+}
+.cur{
+    font-style: italic;
+}
+body{
+    font-size: 2rem;
+    background-color: rgb(137, 126, 159);
+}
+.sq{
+    list-style: square;
+}
+.rom{
+    list-style: lower-roman;
+}
+.cir{
+    list-style: disc;
+}
